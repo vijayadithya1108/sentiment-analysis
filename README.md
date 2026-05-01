@@ -1,5 +1,5 @@
 # Sentiment Analysis Monitor
-
+![Project Preview](demo.jpg)
 A Machine Learning project for the subject: **Machine Learning Tools and Techniques**. 
 
 ## 🚀 Overview
