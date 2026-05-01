@@ -1,6 +1,7 @@
 # Sentiment Analysis Monitor
-![Project Preview](demo.jpg)
-A Machine Learning project for the subject: **Machine Learning Tools and Techniques**. 
+This project implements a real-time Sentiment Analysis Monitor. 
+The application utilizes Natural Language Processing (NLP) to evaluate user-provided text data and classify the underlying emotional tone. 
+By employing a Lexicon-based Machine Learning approach, the system performs tokenization and weight-based inference to provide an instantaneous confidence score.
 
 ## 🚀 Overview
 This project is a web-based Sentiment Analysis tool that uses **Lexicon-based Natural Language Processing (NLP)**. It analyzes text input in real-time to determine if the emotional tone is Positive, Negative, or Neutral.
